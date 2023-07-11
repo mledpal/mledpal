@@ -4,7 +4,7 @@
 
 <p align="center">
     <ul>
-        <a href="http://www.fpvenjaen.es">Mi web</a>
+        <a href="http://www.fpvenjaen.es">Mi web</a> | 
         <a href="mailto:info@fpvenjaen.es">Mi correo</a>
     </ul>   
     
