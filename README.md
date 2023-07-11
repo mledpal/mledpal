@@ -1,6 +1,6 @@
 <h1 align="center"> Miguel Ledesma Palacios</h1>
 
-<h3 align="center"> Técnico de Telecomunicaciones y Sist. Informáticos | Desarrollador Web | T | Piloto de drones FPV</h3>
+<h3 align="center"> Técnico de Telecomunicaciones y Sist. Informáticos | Desarrollador Web | Piloto de drones FPV</h3>
 
 <p align="center">
     <ul align="center">
