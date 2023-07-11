@@ -4,4 +4,6 @@
 <http://www.fpvenjaen.es>
 <info@fpvenjaen.es>
 
-![Miguel Ledesma](/img/mifoto.jpg)
+<p align="center">
+    <img align="center" src="./img/miguel.webp" width="200" >
+</p>
