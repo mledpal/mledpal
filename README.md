@@ -1,10 +1,13 @@
-# Miguel Ledesma Palacios
+<h1 align="center"> Miguel Ledesma Palacios</h1>
 
-### Web Developer | Telecom. Comp. Technician
+<h3 align="center"> Web Developer | Telecom. Comp. Technician</h3>
 
 <p align="center">
-    <a href="http://www.fpvenjaen.es">Mi web</a>
-    <info@fpvenjaen.es>
+    <ul>
+        <a href="http://www.fpvenjaen.es">Mi web</a>
+        <a href="mailto:info@fpvenjaen.es">Mi correo</a>
+    </ul>   
+    
 </p>
 
 
